@@ -1,0 +1,95 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1ba1)
+    Vendor:   NVIDIA
+    VRAM:     8113 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\101\Desktop\vive_ik_demo\vive_ik_test\vive_ik_test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\101\Desktop\vive_ik_demo\vive_ik_test\vive_ik_test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\101\Desktop\vive_ik_demo\vive_ik_test\vive_ik_test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\101\Desktop\vive_ik_demo\vive_ik_test\vive_ik_test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\101\Desktop\vive_ik_demo\vive_ik_test\vive_ik_test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\101\Desktop\vive_ik_demo\vive_ik_test\vive_ik_test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\101\Desktop\vive_ik_demo\vive_ik_test\vive_ik_test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\101\Desktop\vive_ik_demo\vive_ik_test\vive_ik_test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\101\Desktop\vive_ik_demo\vive_ik_test\vive_ik_test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\101\Desktop\vive_ik_demo\vive_ik_test\vive_ik_test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\101\Desktop\vive_ik_demo\vive_ik_test\vive_ik_test_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading C:\Users\101\Desktop\vive_ik_demo\vive_ik_test\vive_ik_test_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+Platform assembly: C:\Users\101\Desktop\vive_ik_demo\vive_ik_test\vive_ik_test_Data\Managed\M3D_DLL.dll (this message is harmless)
+Loading C:\Users\101\Desktop\vive_ik_demo\vive_ik_test\vive_ik_test_Data\Managed\M3D_DLL.dll into Unity Child Domain
+Platform assembly: C:\Users\101\Desktop\vive_ik_demo\vive_ik_test\vive_ik_test_Data\Managed\MCS_Utilities.dll (this message is harmless)
+Loading C:\Users\101\Desktop\vive_ik_demo\vive_ik_test\vive_ik_test_Data\Managed\MCS_Utilities.dll into Unity Child Domain
+- Completed reload, in  0.060 seconds
+Platform assembly: C:\Users\101\Desktop\vive_ik_demo\vive_ik_test\vive_ik_test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\101\Desktop\vive_ik_demo\vive_ik_test\vive_ik_test_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+OpenVR initialized!
+ 
+(Filename:  Line: 353)
+
+UnloadTime: 0.614714 ms
+Connected to lighthouse:LHR-B4E6F3D3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Adjusting to height = 1.66
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Device1 is a basestation, type = TrackingReference
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Device2 is a basestation, type = TrackingReference
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Device3, type = Controller
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Device4, type = Controller
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Device5, type = GenericTracker
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Device6, type = GenericTracker
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Device7, type = GenericTracker
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+device count = 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+bound body parts: FootRight,FootLeft,Torso,HandRight,HandLeft,
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Entering stage2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Entering stage3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 41fc -> priority: 1 
+  Thread -> id: 44f0 -> priority: 1 
+OpenVR Shutdown
+ 
+(Filename:  Line: 707)
+
