@@ -88,7 +88,7 @@ float2 uv_Tex_Spec;
 
 			};
 
-			void vert (inout appdata_full v, out Input o) {
+			void vert (inout appdata_full v) {
 float4 VertexOutputMaster0_0_NoInput = float4(0,0,0,0);
 float4 VertexOutputMaster0_1_NoInput = float4(0,0,0,0);
 float4 VertexOutputMaster0_2_NoInput = float4(0,0,0,0);
